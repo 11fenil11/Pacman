@@ -2,14 +2,13 @@
 This repository contains the source code of our pacman game which is made in C++ language.
 
 # Download Instruction for DevC++ IDE
--->Download zip file "Graphics in Dev C++" and unzip it.
--->Move files from downloaded folder to these following locations
-
-    * files			    location
-    1]graphics.h		dev-cpp -> mingw64 ->include
-    2]wmingim.h		dev-cpp -> mingw64 ->include
-    3]template       dev-cpp->template
-    4]libbgi.a       dev-cpp -> mingw64 ->lib
+Download zip file "Graphics in Dev C++" and unzip it.
+Move files from downloaded folder to these following locations.
+   files          location
+   1]graphics.h   dev-cpp -> mingw64 ->include
+   2]wmingim.h    dev-cpp -> mingw64 ->include
+   3]template     dev-cpp->template
+   4]libbgi.a     dev-cpp -> mingw64 ->lib
 
 # Instruction to use
 
